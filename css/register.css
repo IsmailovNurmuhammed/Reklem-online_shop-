@@ -1,0 +1,72 @@
+.body{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    color: #000;
+    background-color: #fff;
+}
+.conteiner-form{
+    max-width: 448px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.main-section{
+    padding-top: 25px;
+    margin-bottom: 100px;
+    background: url(../img/patterns.png) 100% 0 no-repeat;
+    background-color: #FAFAFA;
+}
+.main-section-theme{
+    padding: 50px 0;
+    margin-left: 20%;
+    text-decoration: underline 5px solid #ffae00;
+}
+.fielder{
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.15);
+    border: none;
+    padding: 10px;
+}
+.form-row-two{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.fielder-two{
+    width: 10   0%;
+}
+.span{
+    color: #B2B2B2;
+}
+.form-radio{
+    display: flex;
+    flex-wrap: wrap;
+}
+.radio{
+    margin: 30px 30px 30px 0;
+}
+.comment{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+    box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.15);
+}
+.button{
+    width: 45%;
+    padding: 12px 30px;
+    color: #fff;
+    background-color: #10BB87;
+    box-shadow: 0px 9px 25px -4px rgba(72, 123, 108, 0.5);
+    border-radius: 10px;
+    border: none;
+}
+.form-button{
+    align-items: center;
+}
+.text-info{
+    width: 50%;
+    font-size: 14px;
+    display: inline-block;
+}
